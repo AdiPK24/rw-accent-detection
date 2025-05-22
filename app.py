@@ -533,8 +533,9 @@ def main():
 
         st.markdown("---")
         st.caption("Built with Streamlit & SpeechBrain.")
-        st.caption("UI Enhanced by Gemini.")
-
+        st.caption("Codebase by Adithya Babu")
+        st.caption("adipk04@gmail.com")
+        
     st.markdown("""
     <style>
     /* Class for results area for potential subtle transition */
@@ -631,6 +632,6 @@ if __name__ == "__main__":
     st.markdown(
         "<p style='text-align: center; color: #A0AEC0;'>"
         "<strong>Accent AI</strong> | "
-        "Detects 16+ English accent varieties | Powered by AI 🚀</p>",
+        "Detects 16+ English accent varieties | Built by Adithya Babu </p>",
         unsafe_allow_html=True
     )
